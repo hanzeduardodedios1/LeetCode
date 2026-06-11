@@ -21,6 +21,6 @@
 
   <!-- Row 2: Time Analytics -->
   <a href="https://wakatime.com">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark" alt="WakaTime Stats" width="450" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ImOnLaunchBrake&theme=dark" alt="WakaTime Stats" width="450" />
   </a>
 </div>
