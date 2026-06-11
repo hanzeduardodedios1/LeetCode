@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>📈 My Engineering Dashboard</h2>
+  <h2>📈 My Leetcode Dashboard</h2>
   
   <!-- Row 1: Core Coding Metrics -->
   <table>
